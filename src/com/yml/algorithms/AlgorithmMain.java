@@ -6,6 +6,7 @@ public class AlgorithmMain {
         // InsertionSort.run();
         // BubbleSort.run();
         // MergeSort.run();
-        Anagram.run();
+        // Anagram.run();
+        PrimeNumbers.run();
     }
 }
