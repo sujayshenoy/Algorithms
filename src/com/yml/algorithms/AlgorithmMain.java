@@ -8,6 +8,7 @@ public class AlgorithmMain {
         // MergeSort.run();
         // Anagram.run();
         // PrimeNumbers.run();
-        PrimePalindrome.run();
+        // PrimePalindrome.run();
+        GenericSearchSort.run();
     }
 }
