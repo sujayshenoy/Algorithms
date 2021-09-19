@@ -5,6 +5,7 @@ public class AlgorithmMain {
         // BinarySearch.run();
         // InsertionSort.run();
         // BubbleSort.run();
-        MergeSort.run();
+        // MergeSort.run();
+        Anagram.run();
     }
 }
